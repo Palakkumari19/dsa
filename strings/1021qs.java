@@ -8,4 +8,6 @@ class Solution {
             if(counter>0)   sb.append(s.charAt(i));
             if(s.charAt(i)=='(') counter++;
         }
-        return sb.to
+        return sb.toString();
+    }
+}
