@@ -1,5 +1,3 @@
-Absolutely bhai. For your DSA repo, I'd keep the README **simple, clean, and resume/GitHub friendly** — not overdo it.
-
 ```md
 # Data Structures & Algorithms
 
