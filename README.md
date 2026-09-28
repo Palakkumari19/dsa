@@ -1,66 +1,18 @@
-```md
-# Data Structures & Algorithms
+# DSA
 
-A collection of my solutions to **Data Structures and Algorithms** problems, primarily solved in **Java**.
+My solutions to Data Structures and Algorithms problems, primarily solved in Java.
 
-The repository contains solutions to problems from platforms such as **LeetCode**, along with brief explanations of the approaches and their time and space complexities.
+Each problem includes the solution along with a short explanation of the approach and its time and space complexity.
 
-## Topics Covered
+## Topics
 
 - Arrays
-- Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Stack & Queue
 - Linked Lists
-- Binary Trees
-- Binary Search Trees
-- Recursion & Backtracking
+- Stacks & Queues
+- Binary Trees & BST
 - Binary Search
-- Heaps / Priority Queues
 - Graphs
 - Dynamic Programming
-- Greedy Algorithms
+- Recursion & Backtracking
 
-## Repository Structure
-
-```text
-DSA/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── BinaryTree/
-├── BST/
-├── BinarySearch/
-├── Heap/
-├── Graph/
-├── DynamicProgramming/
-└── README.md
-```
-
-Each problem contains a Java solution and a short `README.md` explaining:
-
-- Approach
-- Key idea
-- Time Complexity
-- Space Complexity
-
-## Language
-
-- Java
-
-## Progress
-
-I am solving problems consistently to strengthen my problem-solving skills and prepare for technical interviews and software engineering placements.
-
-## Goal
-
-- Build strong DSA fundamentals
-- Improve problem-solving and pattern recognition
-- Practice writing clean and efficient Java solutions
-- Prepare for coding interviews and placements
-
-```
+Continuously solving and improving for coding interviews and placements.
