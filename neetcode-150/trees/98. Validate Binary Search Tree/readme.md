@@ -14,4 +14,6 @@ Return `true` only if both subtrees are valid BSTs.
 
 **Time:** O(n)
 
+Each node is visited exactly once, and only constant-time operations are performed at each node. Therefore, for `n` nodes, the total time complexity is **O(n)**.
+
 **Space:** O(h) due to the recursion stack, where h is the height of the tree.
